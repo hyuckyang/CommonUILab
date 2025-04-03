@@ -1,0 +1,8 @@
+[gitignore]
+Binaries/
+Intermediate/
+Saved/
+*.log
+*.vcxproj
+*.vcxproj.filters
+*.sln
